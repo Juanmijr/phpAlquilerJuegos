@@ -1,0 +1,29 @@
+     td{
+            border: black solid 1px;
+        }
+        .picture { 
+
+            font: 20px/1.4em Arial, sans-serif; 
+        }
+        .picture img { 
+            vertical-align:middle; 
+            margin-bottom: 3px;
+        }
+        .right { 
+            margin: 0.5em 0pt 0.5em 0.8em; 
+            float:right; 
+        }
+        .left { 
+            margin: 0.5em 0.8em 0.5em 0; 
+            float:left;
+        }
+
+        .gris{
+
+            -webkit-filter: grayscale(100%);
+            -moz-filter: grayscale(100%);
+            -ms-filter: grayscale(100%);
+            -o-filter: grayscale(100%);
+            filter: grayscale(100%); 
+
+        }
